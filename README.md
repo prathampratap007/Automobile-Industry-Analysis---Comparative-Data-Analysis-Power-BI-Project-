@@ -2,8 +2,7 @@
 This Power BI project analyzes data from seven major car manufacturers—Volkswagen, BMW, Audi, Hyundai, Toyota, Skoda, and Ford—across parameters like models, transmission, fuel types, prices, and mileage. It enables interactive exploration and comparisons to uncover trends and insights in the automotive market.
 
 
-You can access POWER BI DASHBOATRD here:
-
+![](https://github.com/prathampratap007/Automobile-Industry-Analysis---Comparative-Data-Analysis-Power-BI-Project-/blob/51404a373d999529be704b23c51dd3ddc757efaf/DASHBOSARD%20SCREENSHOTS/Screenshot%202024-11-27%20234151.png)
 
 
 ## Objective
@@ -23,12 +22,15 @@ Average Mileage: The average distance a car can travel per unit of fuel.
 Average MPG (Miles Per Gallon): A measure of fuel efficiency for each model.
 Average Tax: Average tax applied to cars, based on their value or emissions.
 
+![](https://github.com/prathampratap007/Automobile-Industry-Analysis---Comparative-Data-Analysis-Power-BI-Project-/blob/51404a373d999529be704b23c51dd3ddc757efaf/DASHBOSARD%20SCREENSHOTS/Screenshot%202024-11-27%20234137.png)
+
 ## Tools and Technologies Used
 Microsoft Power BI Desktop: For creating interactive visualizations, dashboards, and reports.
 Power Query: For data cleaning, transformation, and integration.
 DAX (Data Analysis Expressions): For calculating custom metrics like average price, average mileage, and MPG.
 Excel: Used for preprocessing and initial cleaning of datasets.
 Open Data Sources: Data collected from various open sources including Google and official car manufacturers' sales data.
+![kj](https://github.com/prathampratap007/Automobile-Industry-Analysis---Comparative-Data-Analysis-Power-BI-Project-/blob/51404a373d999529be704b23c51dd3ddc757efaf/DASHBOSARD%20SCREENSHOTS/Screenshot%202024-11-27%20234054.png)
 
 ## Data Transformation and Techniques
 1. Data Collection:
@@ -46,10 +48,13 @@ Interactive dashboards were created to allow users to filter data by car manufac
 Bar charts, line graphs, and pie charts were used to visualize relationships between car specifications and other attributes like price, MPG, and tax.
 Created scatter plots to compare price against mileage and MPG, helping identify correlations between vehicle cost and fuel efficiency.
 
+[CLICK TO EXPLORE THE DATA SET](cars_dataset.csv)
+
+
 
 ## HOW TO USE
 
-Open the Power BI Desktop file;  [Google POWER BI FILE](https://drive.google.com/file/d/16hfsj3TrOK0msKMucge9eBCq_-4mCs2w/view?usp=sharing)
+Open the Power BI Desktop file;  [Download POWER BI FILE](https://drive.google.com/file/d/16hfsj3TrOK0msKMucge9eBCq_-4mCs2w/view?usp=sharing)
 
 Explore the interactive dashboard with the following features:
 
@@ -61,7 +66,7 @@ Refresh the data source if needed to ensure the data is up to date.
 
 
 
-
+![l](https://github.com/prathampratap007/Automobile-Industry-Analysis---Comparative-Data-Analysis-Power-BI-Project-/blob/51404a373d999529be704b23c51dd3ddc757efaf/DASHBOSARD%20SCREENSHOTS/Screenshot%202024-11-27%20234121.png)
 
 ## Insights and Key Findings
 1. Fuel Efficiency Trends:
@@ -76,3 +81,9 @@ Diesel cars were predominantly produced by Volkswagen and Skoda, especially in o
 4. Tax Analysis:
 Luxury vehicles like those from BMW and Audi generally had higher tax rates compared to budget-friendly options like Hyundai and Ford.
 Toyota had a mix of both high-end and budget-friendly models, resulting in a balanced average tax rate across their vehicles.
+
+
+![CLICK TO EXPLORE THE DASHBOARD SCREENSHOT](https://github.com/prathampratap007/Automobile-Industry-Analysis---Comparative-Data-Analysis-Power-BI-Project-/blob/51404a373d999529be704b23c51dd3ddc757efaf/DASHBOSARD%20SCREENSHOTS/Screenshot%202024-11-27%20234035.png)
+
+
+
